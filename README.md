@@ -55,6 +55,7 @@
      Starter_file           - The original provided files
      ETL_Mini_Project.ipynb - Project Code in Jupyter notebook format, entries in the README match sections in this file
      LICENSE                 - Standard License File - Creative Commons
+     CROWDFUNDING_DB_SQL.SQL - Crowdfunding database Tables creattion script
      README.md               - This file
 
 ### Context
